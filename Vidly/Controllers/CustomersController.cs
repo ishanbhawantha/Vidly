@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
 using Vidly.Models;
 using System.Data.Entity;
-using System.IO.MemoryMappedFiles;
 using Vidly.ViewModels;
 
 namespace Vidly.Controllers
